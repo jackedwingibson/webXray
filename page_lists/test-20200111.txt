@@ -1,0 +1,12 @@
+# Sample websites
+# by jav
+# January 11th 2020
+https://elpais.com
+https://elmundo.es
+https://elespanol.com
+https://marca.com
+https://as.com
+https://movistar.es
+https://www.movistar.es
+https://telefonica.com
+https://uam.es
